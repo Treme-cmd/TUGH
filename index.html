@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: black;
+        }
+        @keyframes glowing {
+            0% {
+                color: #ffffff;
+                text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ff0000, 0 0 60px #ff0000, 0 0 70px #ff0000, 0 0 80px #ff0000;
+            }
+            50% {
+                color: #ffffff;
+                text-shadow: 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000, 0 0 70px #ff0000, 0 0 80px #ff0000, 0 0 90px #ff0000;
+            }
+            100% {
+                color: #ffffff;
+                text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ff0000, 0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000, 0 0 70px #ff0000, 0 0 80px #ff0000;
+            }
+        }
+        h1 {
+            font-size: 48px;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            animation: glowing 1.5s infinite;
+        }
+        img {
+            border-radius: 10px; /* Adjust the value to change the roundness */
+            border: 5px solid white; /* Add a white border around the image */
+            transition: box-shadow 0.3s, transform 0.3s; /* Add transition effect to box-shadow and transform */
+        }
+        img:hover {
+            box-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red, 0 0 40px red, 0 0 50px red; /* Add glowing effect on hover */
+            transform: scale(1.1); /* Increase size by 10% on hover */
+        }
+        a {
+            display: inline-block; /* Remove underline and keep images inline */
+        }
+    </style>
+</head>
+<body>
+  <h1>Treme's UGH</h1>
+
+  <center><a href="Games/1v1.html">
+      <img src="Assets/1v1LOL.webp" alt="1v1LOL"
+        width="175" height="175"/>
+  </a>
+
+
+  <a href="https://example.com" target="_blank">
+      <img src="Assets/FS2.png" alt="FS2"
+        width="175" height="175"/>
+  </a>
+</body>
+</html>
