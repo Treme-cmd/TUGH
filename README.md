@@ -1,1 +1,26 @@
+# Treme's Ultimate Game Hub V1 (TUGH)
 
+Welcome to Treme's Ultimate Game Hub!
+
+## Info
+
+- TUGH is a passon project of mine for awhile now! 
+- I created it because I hate the school systems attempt to restrict fun at school.
+- Right now TUGH is in its early stages of development, so there will be many updates in the future
+
+
+## Planned updates
+
+- More games are planned to be added in the future (You can request games here https://forms.gle/3d3rVWRYnjhApAUf6)
+- Ultraviolet support is planned for the future, allowing you to go to any website you want!
+
+## Credits
+
+- Treme-cmd - Lead coder
+
+## Want to contribute?
+
+- If you want to help aid me in my journey to the ultimate unblocked game website here's how you do it.
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
