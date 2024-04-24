@@ -2,7 +2,7 @@
   <img src="./public/Assets/logo.png" width="150" height="150"/>
 </p>
 
-# Treme's Ultimate Game Hub V1.0.5 (TUGH)
+# Treme's Ultimate Game Hub (TUGH)
 
 Welcome to Treme's Ultimate Game Hub!
 
