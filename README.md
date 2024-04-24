@@ -1,4 +1,4 @@
-!(public/Assets/logo.png)
+![TUGH logo](public/Assets/logo.png)
 # Treme's Ultimate Game Hub V1 (TUGH)
 
 Welcome to Treme's Ultimate Game Hub!
