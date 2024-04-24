@@ -1,4 +1,4 @@
-![TUGH logo](public/Assets/logo.png)
+<center><img src="./public/Assets/logo.png" width="150" height="150"/></center>
 # Treme's Ultimate Game Hub V1 (TUGH)
 
 Welcome to Treme's Ultimate Game Hub!
