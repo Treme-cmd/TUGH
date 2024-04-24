@@ -16,7 +16,6 @@ Welcome to Treme's Ultimate Game Hub!
 ## Planned updates
 
 - More games are planned to be added in the future (You can request games here https://forms.gle/3d3rVWRYnjhApAUf6)
-- Ultraviolet support is planned for the future, allowing you to go to any website you want!
 
 ## Credits
 
