@@ -9,7 +9,7 @@ Welcome to Treme's Ultimate Game Hub!
 ## Info
 
 - TUGH is a passon project of mine for awhile now! 
-- I created it because I hate the school systems attempt to restrict fun at school.
+- I created this website because I hate the school systems attempt to restrict fun at school.
 - Right now TUGH is in its early stages of development, so there will be many updates in the future
 
 
