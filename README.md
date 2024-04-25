@@ -15,7 +15,7 @@ Welcome to Treme's Ultimate Game Hub!
 
 ## Planned updates
 
-- More games are planned to be added in the future (You can request games [here] (https://forms.gle/3d3rVWRYnjhApAUf6))
+- More games are planned to be added in the future (You can request games [here](https://forms.gle/3d3rVWRYnjhApAUf6))
 
 ## Credits
 
