@@ -1,0 +1,119 @@
+body {
+    background-color: black;
+}
+@keyframes glowing {
+    0% {
+        color: #ffffff;
+        text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ff0000, 0 0 60px #ff0000, 0 0 70px #ff0000, 0 0 80px #ff0000;
+    }
+    50% {
+        color: #ffffff;
+        text-shadow: 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000, 0 0 70px #ff0000, 0 0 80px #ff0000, 0 0 90px #ff0000;
+    }
+    100% {
+        color: #ffffff;
+        text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ff0000, 0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000, 0 0 70px #ff0000, 0 0 80px #ff0000;
+    }
+}
+h1 {
+    font-size: 48px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    animation: glowing 1.5s infinite;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    animation: glowing 1.5s infinite;
+}
+ img:not(.exclude) {
+    border-radius: 20px; 
+    border: 5px solid clear; 
+    transition: box-shadow 0.3s, transform 0.3s; 
+}
+img:hover:not(.exclude)  {
+    box-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red, 0 0 40px red, 0 0 50px red; 
+    transform: scale(1.1); 
+}
+a {
+    display: inline-block; 
+}
+#logo {
+    display: block;
+    margin: 0 auto; /* Center the logo horizontally */
+    border-radius: 50%; /* Make the logo round */
+    border: 5px solid #333; /* Dark border around the logo */
+}
+button {
+padding: 13px 23px;
+background-color: #000;
+color: #fff;
+border: 2px solid #fff;
+text-decoration: none;
+font-weight: bold;
+border-radius: 5px;
+margin-left: 10px;
+transition: transform 0.3s, filter 0.3s;
+}
+button:hover {
+transform: scale(1.1);
+filter: invert(1);
+}
+
+.blank-button {
+padding: 13px 23px;
+background-color: #000;
+color: #fff;
+border: 2px solid #fff;
+text-decoration: none;
+font-weight: bold;
+border-radius: 5px;
+margin-left: 10px;
+transition: transform 0.3s, filter 0.3s;
+}
+.blank-button:hover {
+transform: scale(1.1);
+filter: invert(1);
+}
+#particles-js {
+position: fixed;
+background-color: #6ba79d;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: -1;
+}
+nav {
+    background-color: #171616;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    margin: 0 20px;
+    opacity: 0.85;
+    font-family: Arial, sans-serif;
+}
+.nav-logo img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.nav-buttons {
+    display: flex;
+    gap: 10px;
+}
+.nav-buttons a {
+    padding: 10px;
+    background-color: #1f1f1e;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+.nav-buttons a:hover {
+    background-color: #333;
+}
