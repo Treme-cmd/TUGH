@@ -27,6 +27,11 @@ h2 {
     font-family: Arial, sans-serif;
     animation: glowing 1.5s infinite;
 }
+p {
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
  img:not(.exclude) {
     border-radius: 20px; 
     border: 5px solid clear; 
