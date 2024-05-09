@@ -2,20 +2,20 @@
 <html>
 <head>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LP6E9NDEFG"></script>
-  <script src="Assets/analytics.js"></script>
-  <link rel="icon" href="Assets/logo.png">
+  <script src="/Assets/analytics.js"></script>
+  <link rel="icon" href="/Assets/logo.png">
   <link rel="stylesheet" href="style.css">
-  <script src="Assets/scripts.js"></script>
+  <script src="/Assets/scripts.js"></script>
 </head>
 <body>
   <nav>
     <div class="nav-logo">
       <a href="/">
-        <img class="exclude" src="Assets/logo.png" alt="TUGH logo">
+        <img class="exclude" src="/Assets/logo.png" alt="TUGH logo">
       </a>
     </div>
     <div class="nav-buttons">
-      <a href="Games">Games</a>
+      <a href="/Games">Games</a>
       <a href="/Settings">Settings</a>
     </div>
   </nav>
@@ -41,23 +41,18 @@
     });
   </script>
 
-  <title>Treme's UGH</title>
+  <title>Settings</title>
 
 
-  <h1>Treme's Ultimate Game Hub</h1>
+  <h1>Settings</h1>
 
   &nbsp;
 
- 
-  
-  <center>
-    <button style="margin-bottom: 16px;" onclick="location.href = './Games';">Games</button>
-  </center>
-  <center>
-    <button style="margin-bottom: 16px;" onclick="location.href = './Settings/';">Settings</button>
-  </center>
-  <center>
-    <button style="margin-bottom: 16px;" onclick="location.href = './Assets/L/';">Links</button>
-  </center>
+  <div class="containers">
+    <div class="settingscontainer">
+      <h2 style="font-weight: bold;">Advanced tab cloaking</h2>
+      <button class="option" style="width: 150px;" id="enableCloak" anim="ripple" onclick="enableAboutBlank()">Enable</button><button class="option" id="disableCloak" style="width: 150px;" anim="ripple" onclick="disableAboutBlank()">Disable</button>
+    </div>
+  </div>
 </body>
 </html>
