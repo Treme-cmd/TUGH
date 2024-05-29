@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    cursor: url("/Assets/static.png"), pointer;
 }
 @keyframes glowing {
     0% {
@@ -43,6 +44,7 @@ img:hover:not(.exclude)  {
 }
 a {
     display: inline-block; 
+    cursor: url("/Assets/active.png"), pointer;
 }
 #logo {
     display: block;
@@ -60,6 +62,7 @@ font-weight: bold;
 border-radius: 20px;
 margin-left: 10px;
 transition: transform 0.3s, filter 0.3s;
+cursor: url("/Assets/active.png"), pointer;
 }
 button:hover {
 transform: scale(1.1);
