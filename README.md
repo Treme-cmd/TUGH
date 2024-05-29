@@ -8,22 +8,22 @@ Welcome to Treme's Ultimate Game Hub!
 
 ## Info
 
-- TUGH has been a passon project of mine for awhile now! 
-- I created this website because I hate the school systems attempt to restrict fun at school.
-- Right now TUGH is in its early stages of development, so there will be many updates in the future
+- TUGH has been a passion project of mine for a while now!
+- I created this website because I dislike the school system's attempt to restrict fun at school.
+- Currently, TUGH is in its early stages of development, so expect many updates in the future.
 
+## Planned Updates
 
-## Planned updates
-
-- More games are planned to be added in the future (You can request games [here](https://forms.gle/3d3rVWRYnjhApAUf6))
+- More games are planned to be added in the future. You can request games [here](https://forms.gle/3d3rVWRYnjhApAUf6).
 
 ## Credits
 
-- Treme-cmd - Lead coder
+- **Treme-cmd** - Lead coder
 
-## Want to contribute?
+## Want to Contribute?
 
-- If you want to help aid me in my journey to the ultimate unblocked game website here's how you do it.
+If you want to help aid me in my journey to the ultimate unblocked game website, here's how you can do it:
+
 1. Fork the repository.
 2. Make your changes.
 3. Submit a pull request.
