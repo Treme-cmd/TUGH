@@ -28,6 +28,9 @@ h2 {
     font-family: Arial, sans-serif;
     animation: glowing 1.5s infinite;
 }
+h3 {
+    font-family: Arial, sans-serif;
+}
 p {
     font-size: 15px;
     text-align: center;
