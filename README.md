@@ -2,13 +2,13 @@
   <img src="./public/Assets/logo.png" width="150" height="150"/>
 </p>
 
-# HELP
-
-I am looking for help on this project. If you know how to implement Ultraviolet, please fork this project, make the changes, and submit a pull request. Thank you 
-
 # Treme's Ultimate Game Hub (TUGH)
 
 Welcome to Treme's Ultimate Game Hub!
+
+# Help Wanted
+
+I am looking for help on this project. If you know how to implement Ultraviolet, please fork this project, make the changes, and submit a pull request. Thank you 
 
 ## Info
 
