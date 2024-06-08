@@ -1,6 +1,8 @@
 body {
     background-color: black;
     cursor: url("/Assets/static.png"), pointer;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 @keyframes glowing {
     0% {
