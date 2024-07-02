@@ -172,3 +172,22 @@ nav {
     background-color: rgba(160, 160, 160, 0.342);
     transform: translate(-0%,-3%);
 }
+.discord-link {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(58, 58, 58, 0.85);
+    padding: 10px;
+    border-radius: 25px;
+    transition: background-color 0.3s, transform 0.3s;
+    display: flex;
+    align-items: center;
+}
+.discord-link:hover {
+    background-color: rgba(85, 85, 85, 0.85);
+    transform: scale(1.1);
+}
+.discord-logo {
+    width: 30px;
+    height: 30px;
+}
